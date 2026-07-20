@@ -28,7 +28,7 @@ spółkę, edytuj zmienną `ticker_symbol` w kodzie.
 
 ## Przykładowy wynik
 
-![roe_wykres]C:\Users\Dominik\Desktop\Cos\Code\aaa\roe_wykres.png
+![roe_wykres](roe_wykres.png)
 
 ## Technologie
 
